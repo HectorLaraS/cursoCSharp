@@ -1,7 +1,11 @@
 <Solution>
   <Project Path="Arreglos/Arreglos.csproj" />
+  <Project Path="ClasesYObjetos/ClasesYObjetos.csproj" />
   <Project Path="CursoCSharp2/CursoCSharp2.csproj" />
+  <Project Path="Herencia/Herencia.csproj" />
   <Project Path="SentenciasDeControl/SentenciasDeControl.csproj" />
   <Project Path="SentenciaSwitch/SentenciaSwitch.csproj" />
+  <Project Path="Sobrecarga/Sobrecarga.csproj" />
+  <Project Path="Sobreescrtura/Sobreescrtura.csproj" />
   <Project Path="WhileConcepto/WhileConcepto.csproj" />
 </Solution>
