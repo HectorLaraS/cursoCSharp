@@ -1,11 +1,17 @@
 <Solution>
   <Project Path="Arreglos/Arreglos.csproj" />
   <Project Path="ClasesYObjetos/ClasesYObjetos.csproj" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="CursoCSharp2/CursoCSharp2.csproj" />
+  <Project Path="FormatoJSON/FormatoJSON.csproj" Id="2418a952-cf07-430c-9bdc-e1f65fa4dbf4" />
+  <Project Path="GenericsConsole/GenericsConsole.csproj" Id="92243b27-7fd3-4114-b413-9d4cd3c2e145" />
   <Project Path="Herencia/Herencia.csproj" />
+  <Project Path="Interfaces/Interfaces.csproj" />
+  <Project Path="metodosStrings/metodosStrings.csproj" />
   <Project Path="SentenciasDeControl/SentenciasDeControl.csproj" />
   <Project Path="SentenciaSwitch/SentenciaSwitch.csproj" />
   <Project Path="Sobrecarga/Sobrecarga.csproj" />
   <Project Path="Sobreescrtura/Sobreescrtura.csproj" />
+  <Project Path="statics/statics.csproj" />
   <Project Path="WhileConcepto/WhileConcepto.csproj" />
 </Solution>
