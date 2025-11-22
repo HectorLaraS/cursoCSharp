@@ -7,6 +7,7 @@
   <Project Path="GenericsConsole/GenericsConsole.csproj" Id="92243b27-7fd3-4114-b413-9d4cd3c2e145" />
   <Project Path="Herencia/Herencia.csproj" />
   <Project Path="Interfaces/Interfaces.csproj" />
+  <Project Path="ListasYforEach/ListasYforEach.csproj" Id="e1cf74fe-eb27-4b0b-ab6c-33fcef5ca8f1" />
   <Project Path="metodosStrings/metodosStrings.csproj" />
   <Project Path="SentenciasDeControl/SentenciasDeControl.csproj" />
   <Project Path="SentenciaSwitch/SentenciaSwitch.csproj" />
